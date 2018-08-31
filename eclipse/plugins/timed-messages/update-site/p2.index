@@ -1,0 +1,4 @@
+#Fri Aug 31 18:20:49 BRT 2018
+artifact.repository.factory.order=artifacts.xml.xz,artifacts.xml,\!
+version=1
+metadata.repository.factory.order=content.xml.xz,content.xml,\!
