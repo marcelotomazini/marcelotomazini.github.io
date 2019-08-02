@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/music-finder/static/css/main.d9e75851.chunk.css",
-    "main.js": "/music-finder/static/js/main.fe7803da.chunk.js",
+    "main.js": "/music-finder/static/js/main.28d42bdb.chunk.js",
     "runtime~main.js": "/music-finder/static/js/runtime~main.92182736.js",
     "static/js/2.ff0c1bea.chunk.js": "/music-finder/static/js/2.ff0c1bea.chunk.js",
     "index.html": "/music-finder/index.html",
-    "precache-manifest.e1def4194818d58d4551acb8f3c2e8f8.js": "/music-finder/precache-manifest.e1def4194818d58d4551acb8f3c2e8f8.js",
+    "precache-manifest.f9ff3c622ace2ad7f4194f83c6a8ecf2.js": "/music-finder/precache-manifest.f9ff3c622ace2ad7f4194f83c6a8ecf2.js",
     "service-worker.js": "/music-finder/service-worker.js"
   }
 }
